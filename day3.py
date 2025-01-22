@@ -9,7 +9,6 @@ elif unit=='cm' or unit=='厘米':
 else:
     print('请输入有效单位')
 """
-from sys import flags
 
 """
 #成绩百分制
