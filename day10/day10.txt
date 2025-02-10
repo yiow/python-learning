@@ -1,0 +1,4 @@
+这是第十天学习python
+现在学习的是文件读写与异常处理
+谢谢
+thanksthanks
